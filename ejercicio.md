@@ -3,7 +3,7 @@
 ## Exercici 1: Preparació de l'entorn
 - Exemple 1: instal·la un editor de codi
 - Exemple 2: crea una carpeta de treball
-- Exemple 3: obre un terminal
+- Exemple 3: obre un terminal --version
 
 ## Exercici 2: Primers passos
 ### 2.1 Crea un fitxer HTML bàsic
